@@ -19,7 +19,7 @@ from langchain_community.embeddings import OllamaEmbeddings  # 嵌入模型
 # os.environ["DASHSCOPE_API_KEY"] = "你的通义千问 API key"
  
 os.environ["LANGCHAIN_TRACING_V2"] = "true"
-os.environ["LANGCHAIN_API_KEY"] = "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"
+os.environ["LANGCHAIN_API_KEY"] = "lsxxxxx"
 os.environ["LANGCHAIN_PROJECT"] = "RAG_test"
 
 
